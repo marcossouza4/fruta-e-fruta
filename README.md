@@ -1,1 +1,2 @@
-# fruta-e-fruta
+# arquitetura-css
+curso de arquitetura da Alura. 
